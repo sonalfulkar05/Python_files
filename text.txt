@@ -1,0 +1,4 @@
+hello!
+this is python
+We are learning python
+Today is wednesday
